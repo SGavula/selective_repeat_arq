@@ -1,0 +1,3 @@
+﻿  UDP_Communication_Framework.cpp
+C:\Users\gavul\Desktop\UDP7\UDP_Communication_Framework\UDP_Communication_Framework.cpp(253,7): warning C4101: 'buffer_tx': unreferenced local variable
+  UDP_Communication_Framework.vcxproj -> C:\Users\gavul\Desktop\UDP7\x64\Debug\UDP_Communication_Framework.exe

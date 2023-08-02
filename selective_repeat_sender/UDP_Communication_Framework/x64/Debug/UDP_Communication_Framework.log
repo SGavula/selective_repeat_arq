@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (UDP_Communication_Framework.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UDP_Communication_Framework.cpp
+C:\Users\gavul\Desktop\UDP6\UDP_Communication_Framework\UDP_Communication_Framework.cpp(294,68): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  UDP_Communication_Framework.vcxproj -> C:\Users\gavul\Desktop\UDP6\x64\Debug\sender.exe
